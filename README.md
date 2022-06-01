@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gvpassos
-- Python, ....
+Olá Eu sou Guilherme Veloso Passos, Atualmente sou um entusiasta em Programação
 
-<!---
-gvpassos/gvpassos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+planejo upar no meu github quaisquers projetos que eu desenvolva, para aumentar meu conhecimento.
+sinta-se a vontade para comentar, e me corrigir :D
+
+obrigado pela visita!!
