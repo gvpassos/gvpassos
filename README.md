@@ -1,24 +1,25 @@
 <h2> Sobre mim </h2>
 
-Olá Eu sou Guilherme Veloso Passos, Atualmente sou um entusiasta em Programação
+Olá Eu sou Guilherme Veloso Passos, atualmente sou um entusiasta em Programação
 
 Formei em Sistemas de Informação em 2015 pela FEPI 
 
-planejo upar no meu github quaisquers projetos que eu desenvolva, para aumentar meu conhecimento.
-sinta-se a vontade para comentar, e me corrigir :D
+Planejo upar no meu github quaisquers projetos que eu desenvolva, para aumentar meu conhecimento.
+Sinta-se a vontade para comentar, e me corrigir :D
 
-obrigado pela visita!!
-
+Obrigado pela visita!!
+<hr>
 <h2> O que eu ando fazendo  </h2>
   <li>Phaser Games: estou utilizando o Phaser para criar um jogo no estilo do RPG Maker </li>
   
-  <li>Jornal o Aperitivo Mobile: uso o Cordova para buscar o RSS do Blogger e exibir as noticias do jornal em um Aplicativo </li>
+  <li>Jornal o Aperitivo Mobile: uso o Cordova para buscar o RSS do Blogger e exibir as notícias do jornal em um Aplicativo </li>
 
-  <li>Tomadeiro: uso o Cordova para criar e salvar em PDF tres tipos de listas: pontos de tomadas, disjuntores e fios</li> 
+  <li>Tomadeiro: uso o Cordova para criar e salvar em PDF três tipos de listas: pontos de tomadas, disjuntores e fios</li> 
 
   <li>Palavras Cruzadas: é o jogo de palavras cruzadas e caça palavras para ser utilazado num post de Blog ou pagina web </li>
   <br>
 
+<hr>
 
 <h3>Liguagens de programação </h3>
 
@@ -61,6 +62,8 @@ obrigado pela visita!!
 
 
 <br/>
+
+<hr>
 <h3> Minhas redes Socias </h3>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-veloso-passos-44ba43260/)
