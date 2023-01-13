@@ -1,3 +1,9 @@
+<style type="text/css">
+  .h2{
+    background-color: gray;
+  }
+</style>
+
 <h2> Sobre mim </h2>
 
 Olá Eu sou Guilherme Veloso Passos, atualmente sou um entusiasta em Programação
@@ -16,7 +22,7 @@ Obrigado pela visita!!
 
   <li>Tomadeiro: uso o Cordova para criar e salvar em PDF três tipos de listas: pontos de tomadas, disjuntores e fios</li> 
 
-  <li>Palavras Cruzadas: é o jogo de palavras cruzadas e caça palavras para ser utilazado num post de Blog ou pagina web </li>
+  <li>Palavras Cruzadas: é o jogo de palavras cruzadas e caça-palavras para ser utilazado num post de Blog ou página web </li>
   <br>
 
 <hr>
@@ -41,7 +47,7 @@ Obrigado pela visita!!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  <h4>Aprendendo :</h4>
+<h4>Aprendendo:</h4>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
