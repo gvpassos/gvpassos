@@ -1,4 +1,4 @@
-<h2> Sobre mim </h2>
+<h2 style="background-color:gray;padding-left: 10vw;padding: 1vh;border-radius:5px"> Sobre mim </h2>
 
 Olá Eu sou Guilherme Veloso Passos, atualmente sou um entusiasta em Programação
 
@@ -9,19 +9,19 @@ Sinta-se a vontade para comentar, e me corrigir :D
 
 Obrigado pela visita!!
 <hr>
-<h2> O que eu ando fazendo  </h2>
+<h2 style="background-color:gray;padding-left: 10vw;padding: 1vh;border-radius:5px">O que eu ando fazendo  </h2>
   <li>Phaser Games: estou utilizando o Phaser para criar um jogo no estilo do RPG Maker </li>
   
   <li>Jornal o Aperitivo Mobile: uso o Cordova para buscar o RSS do Blogger e exibir as notícias do jornal em um Aplicativo </li>
 
   <li>Tomadeiro: uso o Cordova para criar e salvar em PDF três tipos de listas: pontos de tomadas, disjuntores e fios</li> 
 
-  <li>Palavras Cruzadas: é o jogo de palavras cruzadas e caça palavras para ser utilazado num post de Blog ou pagina web </li>
+  <li>Palavras Cruzadas: é o jogo de palavras cruzadas e caça palavras para ser utilizado em um post de Blog ou pagina web </li>
   <br>
 
 <hr>
 
-<h3>Liguagens de programação </h3>
+<h2 style="background-color:gray;padding-left: 10vw;padding: 1vh;border-radius:5px">Liguagens de programação </h2>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -41,12 +41,12 @@ Obrigado pela visita!!
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  <h4>Aprendendo :</h4>
+<h4>Aprendendo :</h4>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
- <h3>Ferramentas de programação </h3>
+<h3>Ferramentas de programação </h3>
   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
