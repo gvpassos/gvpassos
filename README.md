@@ -1,4 +1,4 @@
-<h2 style="background-color:gray;padding-left: 10vw;padding: 1vh;border-radius:5px"> Sobre mim </h2>
+<h2> Sobre mim </h2>
 
 Olá Eu sou Guilherme Veloso Passos, atualmente sou um entusiasta em Programação
 
@@ -9,7 +9,7 @@ Sinta-se a vontade para comentar, e me corrigir :D
 
 Obrigado pela visita!!
 <hr>
-<h2 style="background-color:gray;padding-left: 10vw;padding: 1vh;border-radius:5px">O que eu ando fazendo  </h2>
+<h2>O que eu ando fazendo  </h2>
   <li>Phaser Games: estou utilizando o Phaser para criar um jogo no estilo do RPG Maker </li>
   
   <li>Jornal o Aperitivo Mobile: uso o Cordova para buscar o RSS do Blogger e exibir as notícias do jornal em um Aplicativo </li>
@@ -21,7 +21,7 @@ Obrigado pela visita!!
 
 <hr>
 
-<h2 style="background-color:gray;padding-left: 10vw;padding: 1vh;border-radius:5px">Liguagens de programação </h2>
+<h2>Liguagens de programação </h2>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
