@@ -1,8 +1,4 @@
-
 <h2> Sobre mim </h2>
-
-  
-
 Olá Eu sou Guilherme Veloso Passos, atualmente sou um entusiasta em Programação, formei em Sistemas de Informação em 2015 pela FEPI e planejo upar no meu github quaisquers projetos que eu desenvolva, para aumentar meu conhecimento.
 Sinta-se a vontade para comentar, e me corrigir :D
 
