@@ -32,8 +32,10 @@ Linguagens Web:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0098d8.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+<h3>Ferramenta que estou aprendendo</h3>
+![Docker](https://img.shields.io/badge/Docker-0098d8.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 <h3> Ferramentas de Desenvolvimento</h3>
 
