@@ -34,7 +34,7 @@ Linguagens Web:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-<h3>Ferramenta que estou aprendendo</h3>
+<h3>Ferramentas que estou aprendendo</h3>
 
 ![Docker](https://img.shields.io/badge/Docker-0098d8.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
