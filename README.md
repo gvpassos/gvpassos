@@ -27,6 +27,7 @@ Linguagens Web:
 <h4>Aprendendo :</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React Native](https://img.shields.io/badge/reactnative-3670A0?style=for-the-badge&logo=react&logoColor=39cdfa)
 
 <h3>Ferramentas de programação </h3>
 
@@ -36,7 +37,7 @@ Linguagens Web:
 
 <h3>Ferramentas que estou aprendendo</h3>
 
-![Docker](https://img.shields.io/badge/Docker-0098d8.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Boot-3670A0?style=for-the-badge&logo=spring&logoColor=20e37b)
 
 <h3> Ferramentas de Desenvolvimento</h3>
 
